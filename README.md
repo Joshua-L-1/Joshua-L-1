@@ -1,7 +1,7 @@
 ## Hello, I am Joshua Libby!
-I am a Computer Science in Real-Time Interactive Simulation Student at DigiPen Institute of Technology | C++/C | Game Development
+I am a Computer Science in Real-Time Interactive Simulation Student at DigiPen Institute of Technology | C++ & C | Game Development
 ##
-🎓Bachelor of Science in Computer Science in Real-Time Interactive Simulation, expected graduation: May 2028
+🎓Bachelor of Science in Computer Science in Real-Time Interactive Simulation, expected graduation: May 2028 \
 📍Redmond, WA / Portland, OR
 ## About Me
 I'm a third-year CS student at DigiPen Institute of Technology who enjoys physics and giving controls to the players to see what wild and amazing things they can do with it. I have mostly worked in C++ and C but I am currently working on a game in Unreal Engine 5 using blueprints and having a lot of fun with it. I have mostly worked in physics/player controls and graphics, mostly in C++.
