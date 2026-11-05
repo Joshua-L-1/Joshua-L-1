@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, I am Joshua Libby!
+I am a Computer Science in Real-Time Interactive Simulation Student at DigiPen Institute of Technology | C++/C | Game Development
 
 <!--
 **Joshua-L-1/Joshua-L-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
